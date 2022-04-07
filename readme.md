@@ -1,6 +1,6 @@
 # Mars Invaders
 
-![](invaders.png)
+![](invader.png)
 
 ## Description
 
@@ -36,5 +36,4 @@ Pour jouer à *Mars Invaders*, il faudra vous munir du simulateur [Mars](http://
 
 ## Auteurs
 
-[GIRARD Gaëlle]
-[LETT Lucas]
+GIRARD Gaëlle & LETT Lucas
